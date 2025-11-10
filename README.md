@@ -21,7 +21,9 @@ The application runs on the FreeRTOS real-time operating system, dividing the fu
   
 * **Task 2: Color Selection:** Handles the external 4x4 matrix keypad input, waiting for the 'C' key to initiate the RRGGBB color entry sequence. The six decimal digits are converted into a single 16-bit color format used by the ILI9341 display.
 
-## Explanatory Video (French)
+## 🎥 Explanatory Video (French)
 [https://drive.google.com/file/d/1AYC2n2WXm69gvdXntyxIzc2F7kkmiZO7/view?usp=sharing](https://drive.google.com/file/d/1AYC2n2WXm69gvdXntyxIzc2F7kkmiZO7/view?usp=sharing)
+
+## 🖼️ Assembly
 
 ![texto alternativo](Documentation/Screen.png)
