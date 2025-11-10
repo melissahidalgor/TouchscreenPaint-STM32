@@ -24,4 +24,4 @@ The application runs on the FreeRTOS real-time operating system, dividing the fu
 ## Explanatory Video (French)
 [https://drive.google.com/file/d/1AYC2n2WXm69gvdXntyxIzc2F7kkmiZO7/view?usp=sharing](https://drive.google.com/file/d/1AYC2n2WXm69gvdXntyxIzc2F7kkmiZO7/view?usp=sharing)
 
-![texto alternativo](TouchscreenPaint-STM32/Documentation/Screen.png)
+![texto alternativo](Documentation/Screen.png)
